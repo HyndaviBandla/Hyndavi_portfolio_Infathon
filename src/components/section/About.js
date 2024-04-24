@@ -13,14 +13,22 @@ const About = () => {
         <h1 class="headings">About me</h1>
         <h2>Hyndavi Bandla</h2>
         <p>
-          I am from Ponnur in Guntur district. I like to visit places and meet
-          people. I am very interested in spending time with my friends and
-          playing outdoors. I always try to maintain a positive mindset and
-          embrace peace. I developed a love for studies from my 9th standard,
-          inspired by my friend. My dream is to use my education to make a
-          positive impact on society. I am health-conscious and friendly in
-          nature. In my free time, I enjoy watching movies and going to the
-          theater with friends.
+          Good morning, I’m Bandla Hyndavi. I have completed my schooling and
+          secondary education in my native place.I am currently pursing my
+          second year of B-Tech with major's in computer science engineering at
+          VIT-Ap University.I had a very good industrial experience by
+          completing my 2 month internship in DRDO Hyderabad as project intern
+          where I became capable of working as individual and improved my
+          problem solving skills and generated radar data using python which is
+          useful for defence. Participating actively in extracurricular
+          activities and serving as a core team member of clubs like the
+          Computer Society of India (CSI) and GeeksforGeeks (GFG) at my
+          university has significantly enhanced my confidence, communication,
+          and time management skills. In free time I used to spend time with
+          friends and family, doing physical exercises and Meditation. I have
+          dynamic character and will have a positive impact on my surroundings,I
+          aim to break the barriers,inspire and pave the way for myself to
+          thrive in the dynamic world of technology.
         </p>
       </div>
     </section>
